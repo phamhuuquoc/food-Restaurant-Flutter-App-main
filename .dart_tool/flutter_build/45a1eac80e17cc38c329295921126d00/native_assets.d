@@ -1,0 +1,1 @@
+ C:\\Users\\QuocBeem\\AndroidStudioProjects\\food-Restaurant-Flutter-App-main\\.dart_tool\\flutter_build\\45a1eac80e17cc38c329295921126d00\\native_assets.yaml: 

@@ -1,0 +1,8 @@
+/build/
+*.log
+*.tmp
+*.lock
+*.class
+*.apk
+*.env
+.DS_Store

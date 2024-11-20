@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "foodli-d894c",
+                    "appId": "1:204069579284:web:8cd882a9eda06f4d225501",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "foodli-d894c",
+                    "configurations": {
+                        "android": "1:204069579284:android:ebe5334bc1b2dc85225501"
+                    }
+                }
+            }
+        }
+    }
+}
